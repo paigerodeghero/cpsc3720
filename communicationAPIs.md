@@ -3,7 +3,7 @@
 
 Share Research Papers:
 1. [Tailored Software Design for Remote Communication Skill Development in Software Engineering Curriculums](https://ieeexplore.ieee.org/document/9659667)
-2. [Perspectives on the Gap Between the Software Industry and the Software Engineering Education](ttps://ieeexplore.ieee.org/document/8808915)
+2. [Perspectives on the Gap Between the Software Industry and the Software Engineering Education](https://ieeexplore.ieee.org/document/8808915)
 
 ## What is an API (Application Programming Interface)?
 - Application refers to an end software product
