@@ -1,7 +1,7 @@
 # Communication Skill Development in SE & APIs
 
 
-Share Research Papers:
+## Summary of Research Papers
 1. [Tailored Software Design for Remote Communication Skill Development in Software Engineering Curriculums](https://ieeexplore.ieee.org/document/9659667)
 2. [Perspectives on the Gap Between the Software Industry and the Software Engineering Education](https://ieeexplore.ieee.org/document/8808915)
 
