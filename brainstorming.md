@@ -15,3 +15,7 @@ Students will brainstorm projects for group project individually
 ## Group Brainstorming
 Students will brainstorm projects for group project as a group. The class will assemble a list of possible projects to work on for the rest of the semester.
 
+## Project Requirements
+1. Scope must be achieveable by deadline (or 0% for project grade).
+2. Everyone must contribute.
+3. Must be able to be accessed by web (Chrome) 
