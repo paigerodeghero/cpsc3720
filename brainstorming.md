@@ -16,6 +16,7 @@ Students will brainstorm projects for group project individually
 Students will brainstorm projects for group project as a group. The class will assemble a list of possible projects to work on for the rest of the semester.
 
 ## Project Requirements
-1. Scope must be achieveable by deadline (or 0% for project grade).
+1. Scope must be achievable by deadline (or 0% for project grade).
 2. Everyone must contribute.
 3. Must be able to be accessed by web (Chrome) 
+4. Code must be pushed regularly to GitHub
