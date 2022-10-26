@@ -20,3 +20,6 @@ Students will brainstorm projects for group project as a group. The class will a
 2. Everyone must contribute.
 3. Must be able to be accessed by web (Chrome) 
 4. Code must be pushed regularly to GitHub
+5. Everyone must contribute code
+6. Projects must contain at least 3 different popular APIs
+
