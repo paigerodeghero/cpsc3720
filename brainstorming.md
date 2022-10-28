@@ -2,7 +2,7 @@
 
 
 ## Research Paper(s) to read
-1. [What Makes Team[s] Work? A Study of Team Characteristics in Software Engineering Projects](https://ieeexplore.ieee.org/document/9659667)
+1. [What Makes Team[s] Work? A Study of Team Characteristics in Software Engineering Projects](https://dl.acm.org/doi/fullHtml/10.1145/3501385.3543980)
 
 ## Brainstorming overview & rules
 1. **No idea is a bad idea.** Have an open mind.
