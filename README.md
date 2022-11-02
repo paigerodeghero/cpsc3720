@@ -1,20 +1,20 @@
 # CPSC 3720
 
 ## Topics Covered
-1. What is software engineering? (hint: it is not just about writing source code)
-2. Software engineering history
-3. Software Development Process 
-4. Classical Waterfall Model
-5. Iterative Process Models 
-6. Agile
-7. SCRUM and Daily Standups 
-8. Mythical Man Month Chapters (1-6)
-9. Brainstorming
-10. Requirements Engineering (elicitation, modeling, analysis, documentation, validation, and management) 
-11. Predictive planning vs Adaptive Planning
-12. Validation vs Verification
-13. Software Development and Communication
-14. APIs
+1. [What is software engineering? (hint: it is not just about writing source code)](whatIsSoftwareEngineering.md)
+2. [Software engineering history](softwareEngineeringHistory.md)
+3. [Software Development Process](softwareDevelopmentProcess.md)
+4. [Classical Waterfall Model](classicalWaterfallModel)
+5. [Iterative Process Models](iterativeProcessModels.md) 
+6. [Agile](agile.md)
+7. [SCRUM and Daily Standups](SCRUMDailyStandups.md) 
+8. [Mythical Man Month Chapters (1-6)](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
+9. [Brainstorming](brainstorming.md)
+10. [Requirements Engineering (elicitation, modeling, analysis, documentation, validation, and management)](requirementsEngineering.md)
+11. [Predictive planning vs Adaptive Planning](predictivePlanningAdaptivePlanning.md)
+12. [Validation vs Verification](validationVerification.md)
+13. [Software Development and Communication](softwareDevelopmentAndCommunication.md)
+14. [APIs](APIs.md)
 15. ...
 
 
