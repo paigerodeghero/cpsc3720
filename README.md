@@ -8,7 +8,7 @@
 5. [Iterative Process Models](iterativeProcessModels.md) 
 6. [Agile](agile.md)
 7. [SCRUM and Daily Standups](SCRUMDailyStandups.md) 
-8. [Mythical Man Month Chapters (1-6)](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
+8. [Mythical Man Month Chapters (1-4)](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 9. [Brainstorming](brainstorming.md)
 10. [Requirements Engineering (elicitation, modeling, analysis, documentation, validation, and management)](requirementsEngineering.md)
 11. [Predictive planning vs Adaptive Planning](predictivePlanningAdaptivePlanning.md)
