@@ -1,19 +1,22 @@
 # CPSC 3720
 
 ## Topics Covered
-1. What is software engineering?
-2. Software Development Process 
-3. Agile
-4. SCRUM and Daily Standups 
-5. Mythical Man Month Chapters (1-6)
-6. Brainstorming
-7. Requirements Elicitation 
-8. Software Development and Communication
-9. APIs
-10. List not complete yet.
+1. What is software engineering? (hint: it is not just about writing source code)
+2. Software engineering history
+3. Software Development Process 
+4. Classical Waterfall Model
+5. Iterative Process Models 
+6. Agile
+7. SCRUM and Daily Standups 
+8. Mythical Man Month Chapters (1-6)
+9. Brainstorming
+10. Requirements Engineering (elicitation, modeling, analysis, documentation, validation, and management) 
+11. Predictive planning vs Adaptive Planning
+12. Validation vs Verification
+13. Software Development and Communication
+14. APIs
+15. ...
 
-
-## Slidedecks
 
 ## Research Paper Links
 1. [Tailored Software Design for Remote Communication Skill Development in Software Engineering Curriculums](https://ieeexplore.ieee.org/document/9659667)
